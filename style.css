@@ -40,3 +40,19 @@ button {
 button:hover {
   background: #003080;
   }
+nav {
+    background: #004aad;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
