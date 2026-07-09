@@ -173,3 +173,25 @@ button:hover {
   color: #555;
   line-height: 1.7;
 }
+#reviews {
+  margin: 20px;
+}
+
+.review-box {
+  background: #ffffff;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+  border-left: 5px solid #ffc107;
+}
+
+.review-box p {
+  color: #555;
+  font-style: italic;
+}
+
+.review-box h4 {
+  color: #0d6efd;
+  margin-top: 10px;
+}
