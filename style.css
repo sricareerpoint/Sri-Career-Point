@@ -157,3 +157,19 @@ button:hover {
   color: #555;
   line-height: 1.6;
 }
+#about {
+  background: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+#about h2 {
+  color: #0d6efd;
+}
+
+#about p {
+  color: #555;
+  line-height: 1.7;
+}
