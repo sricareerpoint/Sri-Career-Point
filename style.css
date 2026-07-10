@@ -195,3 +195,13 @@ button:hover {
   color: #0d6efd;
   margin-top: 10px;
 }
+.hero h1 {
+  font-size: 40px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 20px;
+}
