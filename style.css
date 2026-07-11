@@ -205,3 +205,43 @@ button:hover {
 .hero p {
   font-size: 20px;
 }
+/* Number System Page Design */
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #004aad;
+  text-align: center;
+}
+
+h2 {
+  color: #004aad;
+  border-bottom: 2px solid #004aad;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+h3 {
+  color: #333;
+}
+
+details {
+  background: #f4f8ff;
+  padding: 10px;
+  margin: 10px 0 20px;
+  border-left: 4px solid #004aad;
+  border-radius: 8px;
+}
+
+summary {
+  color: #004aad;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+details p {
+  font-weight: bold;
+}
